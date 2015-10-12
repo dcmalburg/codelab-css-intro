@@ -1,0 +1,33 @@
+
+
+body {
+  background-color: #ede9ce;
+  color: #64706c;
+  border-color:#c7ad88;
+  border: 75px solid;
+  font-size: 14px;
+  padding: 40px;
+  }
+
+h1 {
+  color: #935347;
+}
+img {
+  padding:20px;
+}
+
+a:visited {
+  color:#935347;
+}
+
+h2 {
+  color: #935347;
+}
+
+
+ul {
+  text-decoration: none;
+  line-height: 1.5;
+
+
+}
